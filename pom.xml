@@ -85,5 +85,7 @@
 	<module>zdemo-service-ribbon</module>
 	<module>zdemo-service-feign</module>
 	<module>zdemo-service-zuul</module>
+	<module>zdemo-config-server</module>
+	<module>zdemo-config-client</module>
 	</modules>
 </project>
